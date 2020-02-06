@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pro", "Pro\Pro.csproj", "{3BE099A0-6033-47AF-BA75-5A9586F78347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "CapaLogica\CapaLogica.csproj", "{79B4CD5C-28BE-4A6C-82B3-295E0150B45F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{F8828299-E251-4E39-998D-1E6BE9F7848F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE099A0-6033-47AF-BA75-5A9586F78347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE099A0-6033-47AF-BA75-5A9586F78347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE099A0-6033-47AF-BA75-5A9586F78347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE099A0-6033-47AF-BA75-5A9586F78347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B4CD5C-28BE-4A6C-82B3-295E0150B45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B4CD5C-28BE-4A6C-82B3-295E0150B45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B4CD5C-28BE-4A6C-82B3-295E0150B45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B4CD5C-28BE-4A6C-82B3-295E0150B45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8828299-E251-4E39-998D-1E6BE9F7848F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8828299-E251-4E39-998D-1E6BE9F7848F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8828299-E251-4E39-998D-1E6BE9F7848F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8828299-E251-4E39-998D-1E6BE9F7848F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D142082-D5CC-4D00-92EC-271264B3F7DA}
+	EndGlobalSection
+EndGlobal
